@@ -17,7 +17,7 @@ A seasoned product engineer with 15 years of experience bridging technology and 
 * Product strategy, technical integrations with external data partners, working with engineering folks to build the required tax engine, document generation and payment systems.
 * GTM strategy to acquire 35K customers with over 100M transactions, 45K+ wallets connected across 5 countries.
 
-## 🌐 Youtube Demos on UX I've designed & built
+## 🌐 Youtube Demos & previous work
 * [Tax Product Demo](https://www.youtube.com/watch?v=jzmN0FyrRFY)
 * [High Frequency Data Product - Narrated by my co-founder](https://www.youtube.com/watch?v=FpeA1v_KKGU)
 * [Fyn (formerly BearTax) Products & Screenshots](https://perpetual-orbit-d42.notion.site/Designs-Fyn-Products-137471f1363380979407d32906669dc3?pvs=74)
