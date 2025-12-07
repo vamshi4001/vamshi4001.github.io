@@ -22,6 +22,12 @@ A seasoned product engineer with 15 years of experience bridging technology and 
 - Enabled developer tier with real-time, usage-based billing integrations (Stripe, internal usage metrics), multi-API-key management, and improved UX.
 - Facilitated hyperscaler marketplace integrations, enhancing seamless API access, usage tracking, and billing.
 
+**Principal Frontend Engineer @ Fidelity Investments**
+
+- Built trading experiences and architecture supporting equity, mutual fund, recurring investments, and multiple trading types through Trade and Trader+ platforms.
+- Led frontend architecture, maintenance, and innovation initiatives to enhance user trading experiences.
+- Delivered scalable solutions for high-volume trading systems used by millions of customers.
+
 **Head of Product @ Fyn**
 
 - Rebranded to Fyn post-acquisition, targeting B2B customers in high-frequency trading and tax reporting.
@@ -39,26 +45,44 @@ A seasoned product engineer with 15 years of experience bridging technology and 
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33.33%" align="center">
 <a href="https://www.youtube.com/watch?v=jzmN0FyrRFY">
 <img src="images/beartax-dashboard.png" alt="BearTax Dashboard" width="300" height="200" style="object-fit: cover;"/>
 </a>
 <br/>
 <em>Tax Product Demo</em>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center">
 <a href="https://www.youtube.com/watch?v=FpeA1v_KKGU">
 <img src="images/fyn-processing.png" alt="Fyn Processing" width="300" height="200" style="object-fit: cover;"/>
 </a>
 <br/>
 <em>High Frequency Data Product</em>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center">
 <a href="https://perpetual-orbit-d42.notion.site/Designs-Fyn-Products-137471f1363380979407d32906669dc3?pvs=74">
 <img src="images/portfolio-products.png" alt="Portfolio Products" width="300" height="200" style="object-fit: cover;"/>
 </a>
 <br/>
 <em>Fyn Products & Screenshots</em>
+</td>
+</tr>
+<tr>
+<td width="33.33%" align="center">
+<a href="https://cloud.sambanova.ai">
+<img src="images/sambanova-cloud.png" alt="SambaNova Cloud" width="300" height="200" style="object-fit: cover;"/>
+</a>
+<br/>
+<em>SambaNova Cloud - AI Inference Platform</em>
+</td>
+<td width="33.33%" align="center">
+<a href="https://www.fidelity.com">
+<img src="images/fidelity-trading.png" alt="Fidelity Trading Systems" width="300" height="200" style="object-fit: cover;"/>
+</a>
+<br/>
+<em>Fidelity Trading Systems - Trade & Trader+</em>
+</td>
+<td width="33.33%" align="center">
 </td>
 </tr>
 </table>
