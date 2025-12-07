@@ -1,10 +1,6 @@
-<div align="center">
-
-# 👷 Vamshi Vangapally
+# 👷 I'm Vamshi Vangapally
 
 #### UI/UX Specialist | Fintech/Web3 Entrepreneur
-
-</div>
 
 ## About Me
 
