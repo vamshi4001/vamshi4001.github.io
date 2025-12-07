@@ -1,7 +1,3 @@
----
-title: ""
----
-
 <div align="center">
 
 # 👷 Vamshi Vangapally
