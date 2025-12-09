@@ -4,7 +4,7 @@
 
 ## About Me
 
-A seasoned product engineer with 15 years of experience bridging technology and user needs. I combine deep technical expertise with UX design and Web3 knowledge to build products that matter. My strength lies in translating complex business requirements and customer needs into accessible solutions, with a particular focus on making Web3 technologies approachable for mainstream users.
+I am a product-minded full stack engineer with 15 years of experience working closely with customers to turn complex systems into usable products. I have built data-heavy platforms in fintech, Web3, and enterprise environments, and I enjoy being close to real customer problems. My strength is understanding business needs, data flows, and technical constraints, then shipping practical solutions with strong UX. I am especially interested in roles where engineering, customer interaction, and rapid iteration come together.
 
 ## 📈 Impact
 
