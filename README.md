@@ -1,6 +1,6 @@
 # 👷 I'm Vamshi Vangapally
 
-#### UI/UX Specialist | Fintech/Web3 Entrepreneur
+### Frontend-Focused Fullstack Engineer | Customer-Obsessed Product Builder | Fintech Entrepreneur
 
 ## About Me
 
